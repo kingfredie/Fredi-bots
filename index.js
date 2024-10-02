@@ -164,9 +164,9 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {
-              text: 'Hello there! 👋 \n\nDo not share your session id with anyone.\n\nPut the above in SESSION_ID var\n\nThanks for using GURU-BOT\n\n join support group:- https://chat.whatsapp.com/JY4R2D22pbLIKBMQWyBaLg \n',
+              text: 'Hello there! 👋 \n\nDo not share your session id with anyone.\n\nPut the above in SESSION_ID var\n\nThanks for using FREDI-BOT\n\n join support channel:- https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f \n',
             },
-            { quoted: guru }
+            { quoted: fredi }
           )
 
           console.log('Connected to WhatsApp Servers')
